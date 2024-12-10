@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="50"/> 
   <img src="https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=64&q=75"/>
   <img src="https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bubble-1A92FF?style=for-the-badge&logo=bubble&logoColor=white"/>
 </div>
@@ -69,7 +69,7 @@
 ## 🎉 Fun Fact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKQq9lnyQe2bF0g/giphy.gif" height="120"/>  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhmbG5iZDhlbTlkNG9pMXE5eGoyZGw2aXVmOHhyNTFibTc3ZWFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RU2wKf4a3PHqOTgMYL/giphy.gif"/>  
 </div>  
 
 I love capturing the world through my **camera lens**! 📸  
