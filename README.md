@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Momin** 
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Wave](https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif?cid=ecf05e47aux95ibgnl6z0p4uxio44d54nmww6n5rn9kweka7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Momin's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Momin0-0&show_icons=true&theme=radical" alt="Momin's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momin0-0&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
 ---
@@ -79,9 +79,9 @@ I love capturing the world through my **camera lens**! 📸
 ## 📫 Connect with Me
 
 <div align="center">
-  🌐 [**Portfolio**](#)  
-  💼 [**LinkedIn**](#)  
-  📧 [**Email**](#)  
+  🌐 [**Portfolio**]()  
+  💼 [**LinkedIn**](https://www.linkedin.com/in/kiran-gharti-magar-8134021b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+  📧 [**Email**]()  
 </div>
 
 ---
