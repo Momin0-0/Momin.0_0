@@ -4,21 +4,34 @@
 
 ---
 
+<div align="center">
+
+🌟 **Designer | Photographer | Aspiring Developer** 🌟  
+🎨 Blending **creativity**, **technology**, and **culture**  
+🌍 Passionate about exploring **Nepalese heritage**  
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-🎨 **Designer | Photographer | Aspiring Developer**  
-💻 **BCA Student at Kathford International College**
+🎨 **Designer**: Crafting intuitive **UI/UX experiences**  
+📸 **Photographer**: Capturing the beauty of the world  
+💻 **Developer**: Turning ideas into reality  
 
-> "Creativity is intelligence having fun!" – Albert Einstein  
+💡 **Current Focus**: Building a **Travel Guide App**, exploring **motion graphics**, and diving deeper into **frontend development**.
+
+> 🌟 _"Creativity is intelligence having fun!"_ – Albert Einstein  
 
 ---
 
 ## 🌟 What I Do
 
-- 🖌️ Crafting intuitive **UI/UX designs**  
-- 🎥 Bringing ideas to life through **motion graphics and animation**  
-- 🌍 Exploring **travel and Nepalese culture**  
-- 💡 Building **innovative projects** like a Travel Guide App
+- 🖌️ **UI/UX Design**: Making interfaces user-friendly and beautiful  
+- 🎥 **Motion Graphics**: Bringing ideas to life with animations  
+- 🌍 **Travel Exploration**: Celebrating and sharing Nepalese culture  
+- 💡 **Innovative Projects**: Building apps and solutions for real-world impact  
 
 ---
 
@@ -36,11 +49,11 @@
 
 ## ✨ Fun Projects
 
-| **Project**          | **Description**                                   |
+| 🌟 **Project**       | 📖 **Description**                                |
 |-----------------------|---------------------------------------------------|
-| **Travo**             | Travel Guide App with real-time translation       |
-| **Portfolio Website** | Showcasing my design and photography work         |
-| **Node.js App**       | College project with multi-vendor functionality   |
+| 🧭 **Travo**          | A Travel Guide App with **real-time translation** |
+| 🌐 **Portfolio Website** | Showcasing **design** and **photography**      |
+| 🛒 **Node.js App**    | Multi-vendor **e-commerce platform** for college |
 
 ---
 
@@ -55,17 +68,24 @@
 
 ## 🎉 Fun Fact
 
-![Camera Animation](https://media.giphy.com/media/3o7TKQq9lnyQe2bF0g/giphy.gif)  
-I love capturing the world through my camera lens!  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKQq9lnyQe2bF0g/giphy.gif" height="120"/>  
+</div>  
+
+I love capturing the world through my **camera lens**! 📸  
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio](#)
-- 💼 [LinkedIn](#)
-- 📧 [Email](#)
+<div align="center">
+  🌐 [**Portfolio**](#)  
+  💼 [**LinkedIn**](#)  
+  📧 [**Email**](#)  
+</div>
 
 ---
 
-### 🌟 Thank you for visiting my profile! Let's create something amazing together. 🚀
+<div align="center">
+  🌟 Thank you for visiting my profile! Let's **collaborate** and create something amazing together. 🚀  
+</div>
